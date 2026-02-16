@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-02-16T09:14:12.693Z",
+  "count": 5,
+  "docs": [
+    {
+      "path": "kb/notes/README.md",
+      "title": "",
+      "type": "",
+      "tags": "",
+      "updated": "",
+      "text": "# Notes\n\n长期有效的知识条目。\n"
+    },
+    {
+      "path": "kb/projects/README.md",
+      "title": "",
+      "type": "",
+      "tags": "",
+      "updated": "",
+      "text": "# Projects\n\n按项目沉淀知识，避免散落。\n"
+    },
+    {
+      "path": "kb/references/2026-02-16-openclaw-cron-reminder.md",
+      "title": "OpenClaw cron reminder",
+      "type": "reference",
+      "tags": "[\"openclaw\", \"cron\"]",
+      "updated": "2026-02-16T09:14:12.601Z",
+      "text": "\n## 摘要\n\n\n## 关键点\n\n- \n\n## 细节\n\n\n## 可执行动作\n\n- [ ] \n\n## 相关链接\n\n- \n"
+    },
+    {
+      "path": "kb/references/README.md",
+      "title": "",
+      "type": "",
+      "tags": "",
+      "updated": "",
+      "text": "# References\n\n外部资料摘要和引用来源。\n"
+    },
+    {
+      "path": "kb/inbox/README.md",
+      "title": "",
+      "type": "",
+      "tags": "",
+      "updated": "",
+      "text": "# Inbox\n\n先记下来，后面再整理。\n"
+    }
+  ]
+}
