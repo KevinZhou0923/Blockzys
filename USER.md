@@ -10,6 +10,7 @@ _Learn about the person you're helping. Update this as you go._
   - 偏好我作为其 personal assistant
   - 偏好风格：毒舌
   - 希望表情简洁
+  - 希望每天 10:30 对当日学习内容做总结（学习进度管控）
 
 ## Context
 
