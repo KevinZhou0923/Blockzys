@@ -11,6 +11,7 @@ _Learn about the person you're helping. Update this as you go._
   - 偏好风格：毒舌
   - 希望表情简洁
   - 希望每天 10:30 对当日学习内容做总结（学习进度管控）
+  - 希望每天下午 15:00 按持仓明细模板更新并发送持仓报告
 
 ## Context
 
