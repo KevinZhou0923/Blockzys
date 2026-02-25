@@ -14,6 +14,7 @@ _Learn about the person you're helping. Update this as you go._
   - 交易时段内用户会主动告知仓位变化；若无通知默认沿用前一日持仓数量
   - 希望每个交易日 15:10 输出当日持仓报告（含资产走势），同步数据库，并通过 Telegram 发送
   - 持仓报告文件格式偏好：Excel（.xlsx）
+  - 在工作与交易中，希望我持续提醒“AI外骨骼”思维：不与AI比算力/可计算智力，重点用AI增强判断力、执行力与创造力
 
 ## Context
 
